@@ -1,0 +1,9 @@
+.details {
+  max-width: 25em;
+  background: mediumseagreen;
+  color: white;
+  padding: 0.5em;
+  margin: 1em;
+  text-align: left;
+  font-size: 0.875em;
+}

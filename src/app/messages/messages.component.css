@@ -1,0 +1,7 @@
+.clear {
+  background: blue;
+  color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 4px;
+}
